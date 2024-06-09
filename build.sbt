@@ -2,7 +2,7 @@ name := "akka-essentials"
 
 version := "0.1"
 
-scalaVersion := "2.12.7"
+scalaVersion := "2.12.19"
 
 val akkaVersion = "2.5.13"
 val scalaTestVersion = "3.0.5"
